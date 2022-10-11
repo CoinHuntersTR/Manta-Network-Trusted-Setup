@@ -100,4 +100,8 @@ manta-trusted-setup register
 # KAYIT FORMU;
   [Buradan](https://mantanetwork.typeform.com/TrustedSetup) formuna ulaşabilirsiniz. Sizden istenilen bilgileri oradan doldurup, kayı işlemini tamamlayabilirsiniz.
   
+  Formda sizden KMA adresinizi vermenizi isteyecek, bunun için polkadotjs cüzdana sahip olmanız gerekiyor. Kurulumunu bilmiyorsanız. [Buradan](https://www.pusulafinans.com/polkadot-cuzdan-nasil-olusturulur/) makalemize göz atabilirsiniz.
+  Kurulumu yaptıktan sonra; Aşağıdaki görselleri takip ederek, KMA adresinize ulaşabilirsiniz.
+  
+  
 ## Kayıt işlemleri sonrasında "contribute" aktif hale geldiğinde güncellemelerini yayınlarız.
