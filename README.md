@@ -102,6 +102,6 @@ manta-trusted-setup register
   
   Formda sizden KMA adresinizi vermenizi isteyecek, bunun için polkadotjs cüzdana sahip olmanız gerekiyor. Kurulumunu bilmiyorsanız. [Buradan](https://www.pusulafinans.com/polkadot-cuzdan-nasil-olusturulur/) makalemize göz atabilirsiniz.
   Kurulumu yaptıktan sonra; Aşağıdaki görselleri takip ederek, KMA adresinize ulaşabilirsiniz.
-  
+  ![image](https://user-images.githubusercontent.com/111747226/195038643-45d453c9-20ff-49f6-b7a5-0d0b7f69577d.png)
   
 ## Kayıt işlemleri sonrasında "contribute" aktif hale geldiğinde güncellemelerini yayınlarız.
