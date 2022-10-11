@@ -97,7 +97,7 @@ manta-trusted-setup register
   
 ### Bu şekilde bir görünüm elde ettiyseniz. Başarılı şekilde kayıt işlemini tamamlamışsınız demektir. 
 
-#KAYIT FORMU;
+# KAYIT FORMU;
   [Buradan](https://mantanetwork.typeform.com/TrustedSetup) formuna ulaşabilirsiniz. Sizden istenilen bilgileri oradan doldurup, kayı işlemini tamamlayabilirsiniz.
   
 ## Kayıt işlemleri sonrasında "contribute" aktif hale geldiğinde güncellemelerini yayınlarız.
